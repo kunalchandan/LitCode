@@ -8,6 +8,9 @@ so "a" is considered a different type of stone from "A".
 
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
-        jewels = set(list(J))
-        count = len([1 for s in S if s in jewels])
+        jewels = list(set(list(J)))
+        count = 0
+        for each in S:
+            if each in jewels:
+                count += 1
         return count
