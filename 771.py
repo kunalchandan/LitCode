@@ -6,6 +6,7 @@ The letters in J are guaranteed distinct, and all characters in J and S are lett
 so "a" is considered a different type of stone from "A".
 '''
 
+
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
         jewels = list(set(list(J)))
