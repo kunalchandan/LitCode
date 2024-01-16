@@ -1,20 +1,23 @@
 # Microsoft Prep
-1405
-1686
-1822
-1304
-1404
-1647
-146
-1653
-1775
-1615
-2850
-273
-285
-200
-588
-1239
-1578
-2246
-25
+
+| Problem Num | Difficulty | Status |
+| --------- | ------ | ---------- |
+| 1405      | Medium | Incomplete |
+| 1686      | Medium | Incomplete |
+| 1822      | Easy   | Complete   |
+| 1304      | Easy   | Complete   |
+| 1404      | Medium | Incomplete |
+| 1647      | Medium | Incomplete |
+| 146       | Medium | Incomplete |
+| 1653      | Medium | Incomplete |
+| 1775      | Medium | Incomplete |
+| 1615      | Medium | Incomplete |
+| 2850      | Medium | Incomplete |
+| 273       | Hard   | Incomplete |
+| 285       | Medium | Incomplete |
+| 200       | Medium | Incomplete |
+| 588       | Hard   | Incomplete |
+| 1239      | Medium | Incomplete |
+| 1578      | Medium | Incomplete |
+| 2246      | Hard   | Incomplete |
+| 25        | Hard   | Incomplete |
