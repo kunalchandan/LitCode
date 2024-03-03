@@ -1,7 +1,7 @@
 | Array / String                                                |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
 | 1768. Merge Strings Alternately                               | Easy    | Complete   |
-| 1071. Greatest Common Divisor of Strings                      | Easy    | Incomplete |
+| 1071. Greatest Common Divisor of Strings                      | Easy    | Complete   |
 | 1431. Kids With the Greatest Number of Candies                | Easy    | Incomplete |
 | 605. Can Place Flowers                                        | Easy    | Incomplete |
 | 345. Reverse Vowels of a String                               | Easy    | Incomplete |
@@ -13,9 +13,9 @@
 
 | Two Pointers                                                  |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
-| 283. Move Zeroes                                              | Easy    | Incomplete |
+| 283. Move Zeroes                                              | Easy    | Complete   |
 | 392. Is Subsequence                                           | Easy    | Incomplete |
-| 11. Container With Most Water                                 | Medium  | Incomplete |
+| 11. Container With Most Water                                 | Medium  | Complete   |
 | 1679. Max Number of K-Sum Pairs                               | Medium  | Incomplete |
 
 
