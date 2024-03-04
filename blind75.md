@@ -43,7 +43,7 @@
 
 | Stack                                                         |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
-| 2390. Removing Stars From a String                            | Medium  | Incomplete |
+| 2390. Removing Stars From a String                            | Medium  | Complete   |
 | 735. Asteroid Collision                                       | Medium  | Incomplete |
 | 394. Decode String                                            | Medium  | Incomplete |
 
