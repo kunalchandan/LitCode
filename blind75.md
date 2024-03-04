@@ -120,10 +120,10 @@
 | 216. Combination Sum III                                      | Medium  | Incomplete |
 
 
-| DP - 1D                                                      |         |            |
+| DP - 1D                                                       |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
 | 1137. N-th Tribonacci Number                                  | Easy    | Incomplete |
-| 746. Min Cost Climbing Stairs                                 | Easy    | Incomplete |
+| 746. Min Cost Climbing Stairs                                 | Easy    | Complete   |
 | 198. House Robber                                             | Medium  | Incomplete |
 | 790. Domino and Tromino Tiling                                | Medium  | Incomplete |
 

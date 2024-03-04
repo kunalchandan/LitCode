@@ -1,6 +1,9 @@
+from typing import List
+
+
 class Solution:
     def removeStars(self, s: str) -> str:
-        stack = []
+        stack: List[str] = []
         index = 0
         for _ in range(len(s)):
             if s[index] == "*":
