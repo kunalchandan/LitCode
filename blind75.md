@@ -29,7 +29,7 @@
 
 | Prefix Sum                                                    |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
-| 1732. Find the Highest Altitude                               | Easy    | Incomplete |
+| 1732. Find the Highest Altitude                               | Easy    | Complete   |
 | 724. Find Pivot Index                                         | Easy    | Incomplete |
 
 
