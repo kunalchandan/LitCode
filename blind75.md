@@ -35,7 +35,7 @@
 
 | Hash Map / Set                                                |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
-| 2215. Find the Difference of Two Arrays                       | Easy    | Incomplete |
+| 2215. Find the Difference of Two Arrays                       | Easy    | Complete   |
 | 1207. Unique Number of Occurrences                            | Easy    | Incomplete |
 | 1657. Determine if Two Strings Are Close                      | Medium  | Incomplete |
 | 2352. Equal Row and Column Pairs                              | Medium  | Incomplete |
