@@ -21,7 +21,7 @@
 
 | Sliding Window                                                |         |            |
 | ------------------------------------------------------------- | ------- | ---------- |
-| 643. Maximum Average Subarray I                               | Easy    | Incomplete |
+| 643. Maximum Average Subarray I                               | Easy    | Complete   |
 | 1456. Maximum Number of Vowels in a Substring of Given Length | Medium  | Incomplete |
 | 1004. Max Consecutive Ones III                                | Medium  | Incomplete |
 | 1493. Longest Subarray of 1's After Deleting One Element      | Medium  | Incomplete |
